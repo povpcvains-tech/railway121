@@ -21,8 +21,8 @@ from aiogram.enums import ChatMemberStatus
 
 # ================== КОНФИГУРАЦИЯ ==================
 BOT_TOKEN = "8390147683:AAGrG6qpYqesZIMTuJ-YontebMcc29OxXxU"
-ADMIN_KEY = "school121_admin_secret_2026"
-MODERATOR_KEY = "school121_moderator_secret_2026"
+ADMIN_KEY = "121"
+MODERATOR_KEY = "121"
 ROOT_USER_ID = 8073934406
 ADMINS_FILE = "admins.json"
 MODERATORS_FILE = "moderators.json"
@@ -2182,3 +2182,4 @@ async def main():
 if __name__ == "__main__":
     import asyncio  
     asyncio.run(main())
+
